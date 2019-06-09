@@ -3,7 +3,7 @@
     <module name="instant" />
     <option name="DEPLOY" value="true" />
     <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-    <option name="DEPLOY_AS_INSTANT" value="true" />
+    <option name="DEPLOY_AS_INSTANT" value="false" />
     <option name="ARTIFACT_NAME" value="" />
     <option name="PM_INSTALL_OPTIONS" value="" />
     <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
