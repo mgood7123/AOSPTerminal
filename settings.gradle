@@ -1,2 +1,2 @@
-include ':app'
+include ':instant', ':installed', ':feature'
 rootProject.name='AOSP Terminal'
